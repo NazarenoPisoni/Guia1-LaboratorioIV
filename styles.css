@@ -1,0 +1,20 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+h1, #parrafoh1 {
+    color: white;
+    background-color: blue;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h2 {
+    color: orange;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
